@@ -15,7 +15,7 @@ git clone https://github.com/voltageddebunked/heika
 ```
 Then, navigate to the files:
 ```bash
-cd heika
+cd heika/src
 ```
 And create a new file.
 ```bash
