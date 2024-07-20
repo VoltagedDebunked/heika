@@ -1,0 +1,11 @@
+C:\Users\Danylo\Desktop\Projects\Heika\bin\Debug\net8.0\Heika.deps.json
+C:\Users\Danylo\Desktop\Projects\Heika\bin\Debug\net8.0\Heika.dll
+C:\Users\Danylo\Desktop\Projects\Heika\bin\Debug\net8.0\Heika.pdb
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\Heika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\Heika.AssemblyInfoInputs.cache
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\Heika.AssemblyInfo.cs
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\Heika.csproj.CoreCompileInputs.cache
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\Heika.dll
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\refint\Heika.dll
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\Heika.pdb
+C:\Users\Danylo\Desktop\Projects\Heika\obj\Debug\net8.0\ref\Heika.dll
